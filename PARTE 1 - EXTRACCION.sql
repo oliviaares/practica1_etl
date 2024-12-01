@@ -1,11 +1,4 @@
 
--- Olivia Ares
--- Lucia Poyan
--- Claudia Gemeno
-
-
-USE user066
-
 -- PARTE 1. EXTRACCIÓN
 -- CARGA INICIAL DE DATOS
 
